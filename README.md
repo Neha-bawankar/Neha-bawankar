@@ -1,31 +1,44 @@
-<h1 align="center">Hi 👋, I'm Neha Bawankar</h1>
-<h3 align="center">A Full Stack Java Developer</h3>
+# Hi! 👋 My name is Neha Bawankar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-bawankar&label=Profile%20views&color=0e75b6&style=flat" alt="neha-bawankar" /> </p>
+## Let's explore more about me! :)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div style="display: inline-block; width: 100%;">
+  <div style="float: left; width: 60%;">
+    <p>
+      🎓 I'm a Full stack Java developer <br>
+      🌱 I'm currently working on building projects using React and Advanced Java <br>
+      💻 I'm also learning about backend development and Kotlin <br>
+      💬 Ask me about Java, React <br>
+      🎉 Fun fact: I love playing games!
+    </p>
+  </div>
 
-- 🔭 I’m currently working on **React Project**
+  <div style="float: right; width: 35%;">
+    <img src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" alt="girl coding gif" width="250"/>
+  </div>
+</div>
 
-- 🌱 I’m currently learning **Kotlin, React**
 
-- 💬 Ask me about **Java**
+ 
+---
 
-- 📫 How to reach me **nehabawankar88@gmail.com**
+## 🛠 My Skill Set
 
-- ⚡ Fun fact **I Think, I am Reader**
+| Frontend | Backend | DevOps & Tools |
+|---------|--------|----------------|
+| <img src="https://img.icons8.com/color/48/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/figma--v1.png"/> <img src="https://img.icons8.com/color/48/canva.png"/> <img src="https://img.icons8.com/color/48/adobe-xd.png"/> <img src="https://img.icons8.com/color/48/react-native.png"/> <img src="https://img.icons8.com/plasticine/48/tailwind_css.png"/> | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/> <img src="https://img.icons8.com/color/48/spring-logo.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="48" height="48"/> | <img src="https://img.icons8.com/color/48/linux.png"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/eclipse.png"/> |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neha-n-bawankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-n-bawankar" height="30" width="40" /></a>
-<a href="https://instagram.com/neha_n_bawankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha_n_bawankar" height="30" width="40" /></a>
+## 🤝 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neha-bawankar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neha-n-bawankar-2282891b8/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neha_n_bawankar)
+
+
+---
+
+## 📊 Github Stats
+
+![Neha Bawankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neha-bawankar&show_icons=true&theme=default&hide=prs&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-bawankar&layout=compact&theme=default)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neha-bawankar&style=flat-square" alt="profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-bawankar&show_icons=true&locale=en&layout=compact" alt="neha-bawankar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-bawankar&show_icons=true&locale=en" alt="neha-bawankar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-bawankar&" alt="neha-bawankar" /></p>
