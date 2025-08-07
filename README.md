@@ -43,4 +43,4 @@
   <img src="https://komarev.com/ghpvc/?username=Neha-bawankar&style=flat-square" alt="profile views" />
 </p>
 
-![snake gif](https://github.com/Neha-bawankar/Neha-bawankar/blob/output/github-snake-dark.svg)
+
