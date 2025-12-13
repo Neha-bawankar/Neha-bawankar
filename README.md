@@ -2,7 +2,7 @@
 
 ## Let's explore more about me! :)
 
-<div style="display: inline-block; width: 100%;">
+<div style="display: inline; width: 100%;">
   <div style="float: left; width: 50%;">
     <p>
       🎓 I'm a Full stack Java developer <br>
